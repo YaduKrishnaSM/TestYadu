@@ -11,8 +11,8 @@ public class Test8 extends Broswer{
 		new Broswer().launchAPP();
 		
 		
-		System.out.println("This is for testing this pj ************");
-		System.out.println("This is for testing this pj ************11111sfaerwtwe");
+		//System.out.println("This is for testing this pj ************");
+		//System.out.println("This is for testing this pj ************11111sfaerwtwe");
 		
 	}
 
