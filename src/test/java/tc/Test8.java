@@ -1,4 +1,4 @@
-package yadu;
+package tc;
 
 import org.testng.annotations.Test;
 

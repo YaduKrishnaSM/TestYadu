@@ -24,9 +24,9 @@ public class Broswer {
      
 	//driver = new ChromeDriver();
 	
-	driver.get("https://google.com/");
+	driver.get("https://magento.softwaretestingboard.com/");
 	driver.manage().window().maximize();
-	driver.quit();
+	//driver.quit();
 	
 	}
 
